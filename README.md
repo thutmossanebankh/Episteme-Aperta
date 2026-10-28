@@ -2,7 +2,7 @@
 
 # Épistémè Aperta
 
-### La R&D, l'Open Source, l'Open Science et l'IA Agentique
+### R&D, Open Source, Open Science et IA Agentique
 
 **Pour une refondation de la philosophie africaine
 , de la recherche scientifique et technologique en Afrique**

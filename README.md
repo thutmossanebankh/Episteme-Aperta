@@ -5,7 +5,7 @@
 ### La R&D, l'Open Source, l'Open Science et l'IA Agentique
 
 **Pour une refondation de la philosophie africaine
-et de la recherche scientifique et technologique en Afrique**
+, de la recherche scientifique et technologique en Afrique**
 
 *par Salvador-José Mountanta Famorosa*
 

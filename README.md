@@ -56,7 +56,7 @@ Pour commencer : **tout chercheur doit devenir un GLDPU**, c'est-à-dire un util
 
 - **Aux chercheurs et enseignants-chercheurs** : avoir quatre doctorants et trois masters ne suffit plus. L'IA est le nouveau laboratoire.
 - **Aux étudiants**, du lycée à l'université : Linux, LaTeX, programmation et IA, pas à pas.
-- **Aux philosophes** qui veulent dépasser le débat Hountondji–ethnophilosophie.
+- **Aux philosophes** qui veulent dépasser passer de Cheikh Anat Diop et  Obenga, au grands enjeux de  notre temps.
 - **Aux décideurs politiques** : aucun État ne devient autonome sans connaître les technologies qui gouvernent le monde.
 
 ## Compiler le document

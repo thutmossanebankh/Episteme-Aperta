@@ -5,7 +5,7 @@
 ### La R&D, l'Open Source, l'Open Science et l'IA Agentique
 
 **Pour une refondation de la philosophie africaine
-et de la recherche scientifique et technologique en Afrique**
+, de la recherche scientifique et technologique en Afrique**
 
 *par Salvador-José Mountanta Famorosa*
 
@@ -31,15 +31,14 @@ L'ouvrage propose une sortie en trois temps :
 
 1. **Une rupture** : la *catharsis* épistémologique, au sens de Bachelard.
 2. **Une raison ouverte** : le *Logos Apertus*. Ses normes sont la publicité des méthodes, la reproductibilité et la réfutabilité. L'Open Science et l'Open Source en sont la forme concrète.
-3. **Une stratégie** : la *Mimésis stratégique*. Il s'agit de copier, assimiler, innover, puis devenir indépendant et puissant. C'est l'*Aufhebung* hégélienne appliquée à la technologie.
-
+3. **Une stratégie** : la *Mimésis stratégique*. Il s'agit de copier, assimiler, innover, puis devenir indépendant et puissant.
 Ce n'est pas seulement un livre de philosophie. C'est aussi un **protocole de formation** et un **manuel de souveraineté**.
 
 ## Architecture de l'ouvrage
 
 | Partie | Titre | Ce qu'elle apporte |
 |:---:|---|---|
-| **I** | **Théorie** : fondations épistémiques et ontologiques | Catharsis, *Logos Apertus*, critique de l'ethnophilosophie, *Techné* et *Dunamis*, *Aufhebung* technologique, lexique propédeutique |
+| **I** | **Théorie** : fondations épistémiques et ontologiques | Catharsis, *Logos Apertus*, critique de l'ethnophilosophie, *Techné* et *Dunamis*, *anairesis* technologique, lexique propédeutique |
 | **II** | **Pratique** : le protocole RPA | 15 modules : GNU/Linux, LaTeX, programmation (C, C++, Python, Rust…), science ouverte, IA agentique, matériel ouvert (ESP32, Arduino, Raspberry Pi, LoRa), IoT, robotique, R&D par discipline |
 | **III** | **Gouvernance technique** | ITIL v4, Agile, gestion de projet, standards ouverts et normes ISO, gouvernance des données de recherche |
 | **IV** | **Pour le décideur politique** | OSINT/GEOSINT, technologies critiques (ASML, TSMC, Nvidia, SWIFT, GPS), guerre économique, dépendances, modèles de pouvoir à l'ère de l'IA, intégration africaine |

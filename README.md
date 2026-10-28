@@ -39,7 +39,7 @@ Ce n'est pas seulement un livre de philosophie. C'est aussi un **protocole de fo
 
 | Partie | Titre | Ce qu'elle apporte |
 |:---:|---|---|
-| **I** | **Théorie** : fondations épistémiques et ontologiques | Catharsis, *Logos Apertus*, critique de l'ethnophilosophie, *Techné* et *Dunamis*, *Aufhebung* technologique, lexique propédeutique |
+| **I** | **Théorie** : fondations épistémiques et ontologiques | Catharsis, *Logos Apertus*, critique de l'ethnophilosophie, *Techné* et *Dunamis*, *anairesis* technologique, lexique propédeutique |
 | **II** | **Pratique** : le protocole RPA | 15 modules : GNU/Linux, LaTeX, programmation (C, C++, Python, Rust…), science ouverte, IA agentique, matériel ouvert (ESP32, Arduino, Raspberry Pi, LoRa), IoT, robotique, R&D par discipline |
 | **III** | **Gouvernance technique** | ITIL v4, Agile, gestion de projet, standards ouverts et normes ISO, gouvernance des données de recherche |
 | **IV** | **Pour le décideur politique** | OSINT/GEOSINT, technologies critiques (ASML, TSMC, Nvidia, SWIFT, GPS), guerre économique, dépendances, modèles de pouvoir à l'ère de l'IA, intégration africaine |

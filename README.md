@@ -31,8 +31,7 @@ L'ouvrage propose une sortie en trois temps :
 
 1. **Une rupture** : la *catharsis* épistémologique, au sens de Bachelard.
 2. **Une raison ouverte** : le *Logos Apertus*. Ses normes sont la publicité des méthodes, la reproductibilité et la réfutabilité. L'Open Science et l'Open Source en sont la forme concrète.
-3. **Une stratégie** : la *Mimésis stratégique*. Il s'agit de copier, assimiler, innover, puis devenir indépendant et puissant. C'est l'*Aufhebung* hégélienne appliquée à la technologie.
-
+3. **Une stratégie** : la *Mimésis stratégique*. Il s'agit de copier, assimiler, innover, puis devenir indépendant et puissant.
 Ce n'est pas seulement un livre de philosophie. C'est aussi un **protocole de formation** et un **manuel de souveraineté**.
 
 ## Architecture de l'ouvrage
